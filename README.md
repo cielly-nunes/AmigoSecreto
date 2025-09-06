@@ -40,12 +40,12 @@ Este é um projeto front-end bem simples e não requer instalação na máquina.
 
 1. **Clone o repositório:**
 ```bash
-   git clone https://URL_DO_SEU_REPOSITORIO.git
+   git clone https://github.com/cielly-nunes/AmigoSecreto
 ```
 
 2. **Navegue até o diretório do projeto:**
   ```bash
-     cd nome-do-seu-diretorio
+     cd AmigoSecreto
   ```
 
 3. **Abra o arquivo index.html no seu navegador.**
